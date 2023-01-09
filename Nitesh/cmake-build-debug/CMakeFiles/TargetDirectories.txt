@@ -1,0 +1,3 @@
+/Users/niteshmali/Desktop/Nitesh/cmake-build-debug/CMakeFiles/Nitesh.dir
+/Users/niteshmali/Desktop/Nitesh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/niteshmali/Desktop/Nitesh/cmake-build-debug/CMakeFiles/rebuild_cache.dir

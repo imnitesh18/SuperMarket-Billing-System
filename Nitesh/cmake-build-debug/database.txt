@@ -1,0 +1,5 @@
+ 1 rice 100 4
+ 1 rice 100 4
+ 2 wheat 200 4
+ 3 onion 60 3
+ 4 Aloo 70 2
